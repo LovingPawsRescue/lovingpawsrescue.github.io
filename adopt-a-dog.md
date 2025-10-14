@@ -37,8 +37,4 @@ permalink: /dogs
     <img src="{{ '/assets/dogs/dog5.png' | relative_url }}" alt="Dog 5" style="width:100%; height:auto; border-radius:8px;">
     <p>Charlie, 2 years old, very friendly.</p>
   </div>
-    <p>Daisy, 1 year old, playful and smart.</p>
-  </div>
-
-</div>
 

@@ -7,13 +7,13 @@
 </head>
 <body style="margin:0; font-family: sans-serif; text-align: center;">
 
-<!-- Navigation tabs -->
- <nav style="background-color: #333; padding: 1rem;">
-   <a href="{{ site.baseurl }}/" style="color: white; margin: 0 1rem; text-decoration: none;">Home</a>
-   <a href="{{ site.baseurl }}/dogs" style="color: white; margin: 0 1rem; text-decoration: none;">Adopt a Dog</a>
-   <a href="{{ site.baseurl }}/cats" style="color: white; margin: 0 1rem; text-decoration: none;">Adopt a Cat</a>
-   <a href="{{ site.baseurl }}/faqs" style="color: white; margin: 0 1rem; text-decoration: none;">FAQs</a>
-</nav>
+ <!-- Navigation tabs -->
+  <nav style="background-color: #333; padding: 1rem;">
+    <a href="{{ site.baseurl }}/" style="color: white; margin: 0 1rem; text-decoration: none;">Home</a>
+    <a href="{{ site.baseurl }}/dogs" style="color: white; margin: 0 1rem; text-decoration: none;">Adopt a Dog</a>
+    <a href="{{ site.baseurl }}/cats" style="color: white; margin: 0 1rem; text-decoration: none;">Adopt a Cat</a>
+    <a href="{{ site.baseurl }}/faqs" style="color: white; margin: 0 1rem; text-decoration: none;">FAQs</a>
+ </nav>
 
   <!-- Logo -->
   <div>
@@ -31,7 +31,7 @@
 
   <!-- Centered description -->
   <div style="padding: 2rem; font-size: 1.5rem; max-width: 800px; margin: auto;">
-    {{ site.description }}
+    {{ site.description | newline_to_br }}
   </div>
 
 </body>

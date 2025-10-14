@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Adopt a Cat"
 permalink: /cats
 ---

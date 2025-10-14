@@ -22,7 +22,8 @@ title: Loving Paws Rescue
 email: lovingpawsrescue11@gmail.com
 # >- # this means to ignore newlines until "baseurl:"
 description: |-
-  Welcome to Loving Paws Rescue
+  Welcome to Loving Paws Rescue!
+  
   Based in Brackenfell, we’re dedicated to rescuing and rehabilitating animals in need, primarily dogs and cats. 
   Our mission is to provide a safe haven for all animals, no matter their situation. 
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -4,7 +4,7 @@ title: "Adopt a Cat"
 permalink: /cats
 ---
 
-<h1 style="text-align:center; margin-top: 2rem;">Adopt a dog</h1>
+<h1 style="text-align:center; margin-top: 2rem;">Adopt a Cat</h1>
 
 <!-- Cat Grid -->
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5rem; padding: 2rem;">

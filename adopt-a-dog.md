@@ -11,7 +11,7 @@ permalink: /dogs
 
   <!-- Example Dog -->
   <div style="text-align: center;">
-    <img src="{{ '/assets/dogs/dog1.jpg' | relative_url }}" 
+    <img src="{{ '/assets/dogs/dog1.png' | relative_url }}" 
          alt="Buddy — Playful and friendly" 
          style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
          onclick="openModal(this)">
@@ -20,7 +20,7 @@ permalink: /dogs
   </div>
 
   <div style="text-align: center;">
-    <img src="{{ '/assets/dogs/dog2.jpg' | relative_url }}" 
+    <img src="{{ '/assets/dogs/dog2.png' | relative_url }}" 
          alt="Luna — Shy but sweet" 
          style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
          onclick="openModal(this)">
@@ -29,7 +29,7 @@ permalink: /dogs
   </div>
 
   <div style="text-align: center;">
-    <img src="{{ '/assets/dogs/dog3.jpg' | relative_url }}" 
+    <img src="{{ '/assets/dogs/dog3.png' | relative_url }}" 
          alt="Rex — Senior gentleman" 
          style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
          onclick="openModal(this)">
@@ -38,7 +38,7 @@ permalink: /dogs
   </div>
 
   <div style="text-align: center;">
-    <img src="{{ '/assets/dogs/dog4.jpg' | relative_url }}" 
+    <img src="{{ '/assets/dogs/dog4.png' | relative_url }}" 
          alt="Bella — Full of energy" 
          style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
          onclick="openModal(this)">

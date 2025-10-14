@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ADOPT-A-DOG"
+title: "Adopt a Dog"
 permalink: /dogs
 ---
 

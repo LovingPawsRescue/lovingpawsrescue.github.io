@@ -12,7 +12,10 @@ permalink: /faqs
   <div class="faq-item">
     <button class="faq-question">How can I help?</button>
     <div class="faq-answer">
-      <p>If you are not in a position to adopt, there are still plenty of other ways you can help us make a difference. We are always in need of more fosters             to help care for our animals until they find their forever home. If you are interested in fostering, please fill out [this form](https://aivvlhly.formester.com/f/hyLNDHMDw). If you would like to volunteer your time, please contact Nadia at 079 596 3336 or lovingpawsrescue11@gmail.com. </p>
+      <p>If you are not in a position to adopt, there are still plenty of other ways you can help us make a difference. We are always in need of more fosters             to help care for our animals until they find their forever home. If you are interested in fostering, please fill out 
+        <a href="https://aivvlhly.formester.com/f/hyLNDHMDw" style="color:#3366cc; text-decoration:underline;">
+          this form
+        </a>
     </div>
   </div>
   

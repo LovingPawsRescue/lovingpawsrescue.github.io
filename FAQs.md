@@ -16,6 +16,7 @@ permalink: /faqs
         <a href="https://aivvlhly.formester.com/f/hyLNDHMDw" style="color:#3366cc; text-decoration:underline;">
           this form
         </a>
+        </p>
     </div>
   </div>
   
@@ -26,14 +27,16 @@ permalink: /faqs
         <a href="https://aivvlhly.formester.com/f/E3KbE110G" style="color:#3366cc; text-decoration:underline;">
           the adoption form.
         </a>
-        Once approved, we'll ask you to send a video of your home for a home check and proof of payment of the adoption fee. Once everything is finalised, your       new dog or cat can go with you to their forever home.</p>
+        Once approved, we'll ask you to send a video of your home for a home check and proof of payment of the adoption fee. Once everything is finalised, your       new dog or cat can go with you to their forever home.
+      </p>
     </div>
   </div>
 
   <div class="faq-item">
     <button class="faq-question">How much is your adoption fee?</button>
     <div class="faq-answer">
-      <p>Our adoption fee is R1300. This covers the dog or cat's first vaccinations, microchipping, sterilisation, deworming and tick treatments. If the animal           isn't 6 months old yet, we'll organise a free sterilisation at one of our vets when the puppy or kitten is old enough.</p>
+      <p>Our adoption fee is R1300. This covers the dog or cat's first vaccinations, microchipping, sterilisation, deworming and tick treatments. If the animal           isn't 6 months old yet, we'll organise a free sterilisation at one of our vets when the puppy or kitten is old enough.
+      </p>
     </div>
   </div>
 
@@ -44,14 +47,16 @@ permalink: /faqs
         <a href="https://drive.google.com/file/d/1gKN8j9sISq0ozdlRR3N_ogXYFOCXUDJL/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExS3RFdExHNEU0aW9QRm1GbQEeMQo-nziyyrksSrx-3S5uXhffUbm-8gb8hJcthiSM9RHIzEjYt9PN0_l2LCU_aem_H2r0jZbqomrSLxHkC_F5QA" style="color:#3366cc; text-decoration:underline;">
           this link
         </a>
-         to see how you can donate. </p>
+         to see how you can donate. 
+      </p>
     </div>
   </div>
 
   <div class="faq-item">
     <button class="faq-question">Who can I contact if I have other questions?</button>
     <div class="faq-answer">
-      <p>If you have any other questions, please contact Nadia at 079 596 3336 or lovingpawsrescue11@gmail.com. </p>
+      <p>If you have any other questions, please contact Nadia at 079 596 3336 or lovingpawsrescue11@gmail.com. 
+      </p>
     </div>
   </div>
 

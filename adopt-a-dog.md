@@ -4,50 +4,24 @@ title: "Adopt a Dog"
 permalink: /dogs
 ---
 
-<h1 style="text-align:center; margin-top: 2rem;">Adopt a Dog</h1>
+<h1 style="text-align:center; margin-top: 2rem;"> Meet Our Dogs </h1>
 
-<!-- Dog Grid -->
+<!-- Image Grid -->
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5rem; padding: 2rem;">
-
-  <!-- Example Dog -->
+  {% assign dog_images = site.static_files | where_exp: "file", "file.path contains '/assets/dogs'" %}
+  {% for dog in dog_images %}
   <div style="text-align: center;">
-    <img src="{{ '/assets/dogs/dog1.png' | relative_url }}" 
-         alt="Buddy — Playful and friendly" 
-         style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
-         onclick="openModal(this)">
-    <p style="margin-top: 0.5rem; font-weight:600;">Buddy</p>
-    <p>Playful and friendly</p>
+    <img 
+      src="{{ dog.path | relative_url }}" 
+      alt="{{ dog.name | split: '.' | first | capitalize }}" 
+      style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
+      onclick="openModal(this)"
+    >
+    <p style="margin-top: 0.5rem; font-weight:600;">
+      {{ dog.name | split: '.' | first | replace: '_', ' ' | capitalize }}
+    </p>
   </div>
-
-  <div style="text-align: center;">
-    <img src="{{ '/assets/dogs/dog2.png' | relative_url }}" 
-         alt="Luna — Shy but sweet" 
-         style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
-         onclick="openModal(this)">
-    <p style="margin-top: 0.5rem; font-weight:600;">Luna</p>
-    <p>Shy but sweet</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="{{ '/assets/dogs/dog3.png' | relative_url }}" 
-         alt="Rex — Senior gentleman" 
-         style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
-         onclick="openModal(this)">
-    <p style="margin-top: 0.5rem; font-weight:600;">Rex</p>
-    <p>Senior gentleman</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="{{ '/assets/dogs/dog4.png' | relative_url }}" 
-         alt="Bella — Full of energy" 
-         style="width:100%; border-radius:12px; cursor:pointer; transition: transform 0.3s ease;"
-         onclick="openModal(this)">
-    <p style="margin-top: 0.5rem; font-weight:600;">Bella</p>
-    <p>Full of energy</p>
-  </div>
-
-  <!-- Add more dogs here following the same pattern -->
-
+  {% endfor %}
 </div>
 
 <!-- Popup Modal -->

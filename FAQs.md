@@ -22,7 +22,11 @@ permalink: /faqs
   <div class="faq-item">
     <button class="faq-question">How does the adoption process work?</button>
     <div class="faq-answer">
-      <p>To start the adoption process, simply fill out [the adoption form](https://aivvlhly.formester.com/f/E3KbE110G). Once approved, we'll ask you to send a video of your home for a home check and proof of payment of the adoption fee. Once everything is finalised, your new dog or cat can go with you to their forever home.</p>
+      <p>To start the adoption process, simply fill out 
+        <a href="https://aivvlhly.formester.com/f/E3KbE110G" style="color:#3366cc; text-decoration:underline;">
+          the adoption form.
+        </a>
+        Once approved, we'll ask you to send a video of your home for a home check and proof of payment of the adoption fee. Once everything is finalised, your       new dog or cat can go with you to their forever home.</p>
     </div>
   </div>
 
@@ -36,7 +40,11 @@ permalink: /faqs
   <div class="faq-item">
     <button class="faq-question">How can I donate?</button>
     <div class="faq-answer">
-      <p>We have over 200 cats and dogs in our care, and appreciate all help, including donations. Please use [this link](https://drive.google.com/file/d/1gKN8j9sISq0ozdlRR3N_ogXYFOCXUDJL/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExS3RFdExHNEU0aW9QRm1GbQEeMQo-nziyyrksSrx-3S5uXhffUbm-8gb8hJcthiSM9RHIzEjYt9PN0_l2LCU_aem_H2r0jZbqomrSLxHkC_F5QA) to see how you can donate. </p>
+      <p>We have over 200 cats and dogs in our care, and appreciate all help, including donations. Please use 
+        <a href="https://drive.google.com/file/d/1gKN8j9sISq0ozdlRR3N_ogXYFOCXUDJL/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExS3RFdExHNEU0aW9QRm1GbQEeMQo-nziyyrksSrx-3S5uXhffUbm-8gb8hJcthiSM9RHIzEjYt9PN0_l2LCU_aem_H2r0jZbqomrSLxHkC_F5QA" style="color:#3366cc; text-decoration:underline;">
+          this link
+        </a>
+         to see how you can donate. </p>
     </div>
   </div>
 

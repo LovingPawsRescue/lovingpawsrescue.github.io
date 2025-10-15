@@ -19,6 +19,7 @@ permalink: /faqs
         <a href="https://aivvlhly.formester.com/f/hyLNDHMDw" style="color:#3366cc; text-decoration:underline;">
           this form.
         </a>
+        If you would like to volunteer your time, please contact Nadia at 079 596 3336 or lovingpawsrescue11@gmail.com. 
         </p>
     </div>
   </div>

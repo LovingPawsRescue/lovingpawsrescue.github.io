@@ -10,18 +10,24 @@ permalink: /faqs
 
   <!-- FAQ Item -->
   <div class="faq-item">
-    <button class="faq-question">How can I help?</button>
+    <button class="faq-question">
+      How can I help?
+    <span class="arrow">▼</span>
+    </button>
     <div class="faq-answer">
       <p>If you are not in a position to adopt, there are still plenty of other ways you can help us make a difference. We are always in need of more fosters             to help care for our animals until they find their forever home. If you are interested in fostering, please fill out 
         <a href="https://aivvlhly.formester.com/f/hyLNDHMDw" style="color:#3366cc; text-decoration:underline;">
-          this form
+          this form.
         </a>
         </p>
     </div>
   </div>
   
   <div class="faq-item">
-    <button class="faq-question">How does the adoption process work?</button>
+    <button class="faq-question">
+      How does the adoption process work?
+     <span class="arrow">▼</span>
+    </button>
     <div class="faq-answer">
       <p>To start the adoption process, simply fill out 
         <a href="https://aivvlhly.formester.com/f/E3KbE110G" style="color:#3366cc; text-decoration:underline;">
@@ -33,7 +39,10 @@ permalink: /faqs
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">How much is your adoption fee?</button>
+    <button class="faq-question">
+      How much is your adoption fee?
+     <span class="arrow">▼</span>
+    </button>
     <div class="faq-answer">
       <p>Our adoption fee is R1300. This covers the dog or cat's first vaccinations, microchipping, sterilisation, deworming and tick treatments. If the animal           isn't 6 months old yet, we'll organise a free sterilisation at one of our vets when the puppy or kitten is old enough.
       </p>
@@ -41,7 +50,10 @@ permalink: /faqs
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">How can I donate?</button>
+    <button class="faq-question">
+      How can I donate?
+     <span class="arrow">▼</span>
+    </button>
     <div class="faq-answer">
       <p>We have over 200 cats and dogs in our care, and appreciate all help, including donations. Please use 
         <a href="https://drive.google.com/file/d/1gKN8j9sISq0ozdlRR3N_ogXYFOCXUDJL/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExS3RFdExHNEU0aW9QRm1GbQEeMQo-nziyyrksSrx-3S5uXhffUbm-8gb8hJcthiSM9RHIzEjYt9PN0_l2LCU_aem_H2r0jZbqomrSLxHkC_F5QA" style="color:#3366cc; text-decoration:underline;">
@@ -53,7 +65,10 @@ permalink: /faqs
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">Who can I contact if I have other questions?</button>
+    <button class="faq-question">
+      Who can I contact if I have other questions?
+     <span class="arrow">▼</span>
+    </button>
     <div class="faq-answer">
       <p>If you have any other questions, please contact Nadia at 079 596 3336 or lovingpawsrescue11@gmail.com. 
       </p>
